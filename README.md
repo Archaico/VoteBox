@@ -2,7 +2,7 @@
 LifeGroundCommunity Official Project - Open Source
 VoteBox
 ─The People's Voice.  An open and secure platform for creating, and voting on issues. 
-White Paper Proposal by Robert RM 
+White Paper Proposal by the LifeGround Community Foundation 
 Overview
 To create a long-lasting, open digital platform for voting on issues. The platform would empower any user to freely create an issue to vote on, and subsequently invite others to vote on it. The platform would register the votes and display the results at any time, and for  whomsoever.  Using already existing technologies to create a platform that is free, transparent, and incorruptible. It should be created and maintained in a similar way as Wikipedia: by the people, and for the people, thus avoiding any form of centralised ownership. 
 Goals
