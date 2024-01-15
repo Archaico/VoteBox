@@ -3,6 +3,7 @@ LifeGroundCommunity Official Project - Open Source
 
 VoteBox
 ─The People's Voice.  An open and secure platform for creating, and voting on issues. 
+
 White Paper Proposal by the LifeGround Community Foundation.
 
 Overview
