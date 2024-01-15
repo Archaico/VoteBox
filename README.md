@@ -1,29 +1,38 @@
 # VoteBox
 LifeGroundCommunity Official Project - Open Source
+
 VoteBox
 ─The People's Voice.  An open and secure platform for creating, and voting on issues. 
-White Paper Proposal by the LifeGround Community Foundation 
+White Paper Proposal by the LifeGround Community Foundation.
+
 Overview
 To create a long-lasting, open digital platform for voting on issues. The platform would empower any user to freely create an issue to vote on, and subsequently invite others to vote on it. The platform would register the votes and display the results at any time, and for  whomsoever.  Using already existing technologies to create a platform that is free, transparent, and incorruptible. It should be created and maintained in a similar way as Wikipedia: by the people, and for the people, thus avoiding any form of centralised ownership. 
+
 Goals
-Build a team. It will take a network of collaborators and volunteers around the world to build this kind of jewel.
+
+Build a team. 
+It will take a network of collaborators and volunteers around the world to build this kind of jewel.
 Build the software that will run VoteBox. Again, it should be decentralised by design. An  open-sourced approach.
 Specifications
 A key feature for the overall purpose of VoteBox is that it should have the quality of being ‘incorruptible’, meaning the data it displays cannot be tampered with. Said another way, the system is designed to be totally open for access, totally transparent, and incorruptible. 
+
 Key Technologies
+
 This can feasibly be achieved by making use of 2 already existent technologies, and combining them to serve this project's requirements.
 
 Block-chain technology. This could be employed to create a transparent record of past events. The principle is, as long as the whole chain exists, no part of it (previously formed link) can be corrupted, or altered. Now apply that concept to that of making and fairly counting votes. We have the technology to create a completely transparent digital voting ballot. Not only that, but also a trustable record keeper of events past, at least of the issues we decide upon.
  
 A design strategy of distribution, and redundancy of copies. Create a distributed database that would store many copies of the same packages of information among all users’ computers. So that the ‘minable’ data would not be stored at any one physical location, but rather distributed. Incorporated in this approach would be a system of redundancy as well. Whereby, if one source of a particular record was burned, or corrupted, there would exist several other copies around the world with only a random relation to each other. By which, the completeness and authenticity of the package (record) can be compared and confirmed. 
 
-The user interface of the platform. It is important that the user interface has certain qualities such as free, and unlimited access to all. Imagine a platform similar to YouTube in structure. Any casual user can upload content, and then that content gets the vote of the community (thumbs up, or thumbs down counter on a particular video). Well, VoteBoxs’ interface with the public would be similar, in the sense that the user could start a thread, or issue to vote on  (which would be declared in the form of a question with a yes or no answer). Then the user could invite his or her neighbours, friends, relatives, colleagues, etc to give their vote on said issue. Once an issue is created, it is forever stored as a ‘record’, or data package in the block-chain of VoteBox.  Thereby making it accessible to any future query of such data, by any user.
+The user interface of the platform. 
+It is important that the user interface has certain qualities such as free, and unlimited access to all. Imagine a platform similar to YouTube in structure. Any casual user can upload content, and then that content gets the vote of the community (thumbs up, or thumbs down counter on a particular video). Well, VoteBoxs’ interface with the public would be similar, in the sense that the user could start a thread, or issue to vote on  (which would be declared in the form of a question with a yes or no answer). Then the user could invite his or her neighbours, friends, relatives, colleagues, etc to give their vote on said issue. Once an issue is created, it is forever stored as a ‘record’, or data package in the block-chain of VoteBox.  Thereby making it accessible to any future query of such data, by any user.
  
 Greater Context
 The Times We Live In
 It has become more than clear that capitalism has corrupted democracy, to such an extent that laws are passed to serve corporations first, and the average citizen last. So, this project has the intent of becoming a fair, and practical tool to serve freedom and self determination. Finally, a platform for uniting peoples’ opinions on particular issues. People from all around the world that no longer think only locally,  have opinions on international issues. VoteBox would serve as a tool of formal reflection and recording of the people's voice, regardless of access, income, nationality, gender, or agenda. It should serve a very functional, practical service, which is to be an organ of the democratic process. 
 The little man is hurt by his betrayal from journalism. Journalism is an important organ of a democratic society, but we currently find ourselves in a system that is thoroughly corrupted by the mere presence of money. Lawmakers are swayed by corporations, and media companies (the ones paying journalists’ salaries) are owned by a very small private group of people. This is the context we live in. VoteBox aspires to be a tool to help us balance this unfair play, and create the foundations for a more self-deterministic, global platform of expression, and global decision-making. The kind of infrastructure that would be needed to live harmoniously together, save the ecosystem, and give us freedom. 
 Function and Design
+
 Imagine the fountain in the middle of a plaza, near the centre of a town. It gushes its sweet water for anyone who is thirsty. It is a public, common resource. That is the ethos this project aspires to become. Let the people create a communal, central asset for us all to use for free, forever after. It could be seen as creating our logical ally. To give strength to the common man's voice, as well as unite the global voice. A solid foundational stone, from which to help build a better society, and life. 
 
 VoteBox should be built and maintained from this ethos. The metaphor of the village fountain is a good one to understand the approach in design, and functionality of this common utility. Don’t let its humbleness fool you. It can be robust, long-lasting, self-sufficient, and value-generating, if designed accordingly. The design approach should take care to consider the longevity of the project. The challenge here is to create a self-sustaining system, maintained by the people whom it serves. This project will have nothing to do with a product that serves a profit for someone. But rather, everything to do with the principles of creating public infrastructure. Money is not the issue here. Value for the community is the goal.
