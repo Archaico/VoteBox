@@ -55,3 +55,4 @@ The legal ramifications have not been explored, however it is very feasible that
 Call to Action
 We are, you are, only here alive today because of all the struggles and efforts of a long line of ancestors. They were not as fortunate as us today in the sense of having access to medicine, technology, comfort and productivity tools.
 We are at the very apex of evolution, sophistication, opportunity and technology. We are living the experiment of being. We are nature's highest expression of intelligence, and wonderful complexity. The ball is in our hands. The whole planet, past and future is expectant, waiting to see how we handle it. We are the leaders of the biosphere, and building this tool could help society to better handle this role. Lets not fumble now, and drop the ball!
+
